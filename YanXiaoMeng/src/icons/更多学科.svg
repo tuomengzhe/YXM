@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="82.666664"
+   height="22.666668"
+   viewBox="0 0 82.666664 22.666668"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,17 H 62 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <g
+     id="g8"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,22.666667)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(59.2056)">
+          <path
+             d="m 0,0 h -56.411 c -1.543,0 -2.795,1.251 -2.795,2.794 v 11.412 c 0,1.543 1.252,2.794 2.795,2.794 H 0 c 1.543,0 2.794,-1.251 2.794,-2.794 V 2.794 C 2.794,1.251 1.543,0 0,0"
+             style="fill:#0762ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(1,0,0,-1,19.5479,6.2749)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:'Microsoft YaHei UI';-inkscape-font-specification:MicrosoftYaHeiUI-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text24"><tspan
+         x="0 5 10 15"
+         y="0"
+         id="tspan22">更多学科</tspan></text>
+  </g>
+</svg>
